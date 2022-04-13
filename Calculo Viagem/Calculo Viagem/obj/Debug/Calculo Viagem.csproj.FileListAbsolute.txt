@@ -1,0 +1,11 @@
+C:\Users\Ponto G7\Desktop\UNINOVE\programação aula quarta\Calculo Viagem\Calculo Viagem\bin\Debug\Calculo Viagem.exe.config
+C:\Users\Ponto G7\Desktop\UNINOVE\programação aula quarta\Calculo Viagem\Calculo Viagem\bin\Debug\Calculo Viagem.exe
+C:\Users\Ponto G7\Desktop\UNINOVE\programação aula quarta\Calculo Viagem\Calculo Viagem\bin\Debug\Calculo Viagem.pdb
+C:\Users\Ponto G7\Desktop\UNINOVE\programação aula quarta\Calculo Viagem\Calculo Viagem\obj\Debug\Calculo Viagem.csproj.AssemblyReference.cache
+C:\Users\Ponto G7\Desktop\UNINOVE\programação aula quarta\Calculo Viagem\Calculo Viagem\obj\Debug\Calculo Viagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ponto G7\Desktop\UNINOVE\programação aula quarta\Calculo Viagem\Calculo Viagem\obj\Debug\Calculo_Viagem.FrmPrincipal.resources
+C:\Users\Ponto G7\Desktop\UNINOVE\programação aula quarta\Calculo Viagem\Calculo Viagem\obj\Debug\Calculo_Viagem.Properties.Resources.resources
+C:\Users\Ponto G7\Desktop\UNINOVE\programação aula quarta\Calculo Viagem\Calculo Viagem\obj\Debug\Calculo Viagem.csproj.GenerateResource.cache
+C:\Users\Ponto G7\Desktop\UNINOVE\programação aula quarta\Calculo Viagem\Calculo Viagem\obj\Debug\Calculo Viagem.csproj.CoreCompileInputs.cache
+C:\Users\Ponto G7\Desktop\UNINOVE\programação aula quarta\Calculo Viagem\Calculo Viagem\obj\Debug\Calculo Viagem.exe
+C:\Users\Ponto G7\Desktop\UNINOVE\programação aula quarta\Calculo Viagem\Calculo Viagem\obj\Debug\Calculo Viagem.pdb
